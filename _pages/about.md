@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: ʔamir ͡tsuʁ
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I am an NLP researcher passionate about understanding and evaluating the language capabilities of AI models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In 2023, I completed a Masters in Computer Science and Bachelors in Linguistics at Stanford University, where I conducted research advised by <a href="https://stanford.edu/~cgpotts/">Dr. Christopher Potts</a> and <a href="https://atticusg.github.io/">Dr. Atticus Geiger</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on <strong>causally-motivated explanations and evaluation</strong> of language models. At Stanford, I worked on interpretable, de-biased, and accessible language models. At the <a href="https://prair.group/">Pr(Ai)<sup>2</sup>R Group</a>, I researched the decision-making of language models during free-form text generation, and its implications on representation bias in short story generation.
+
+Right now, I am a data scientist at Microsoft, working on multi-turn conversational agents.
