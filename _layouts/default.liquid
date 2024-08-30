@@ -5,12 +5,15 @@
     {% if page.redirect %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}
+        {% assign timeout = 3 %}
       {% elsif page.redirect contains '://' %}
         {% assign redirect = page.redirect %}
+        {% assign timeout = 0 %}
       {% else %}
         {% assign redirect = page.redirect | relative_url %}
+        {% assign timeout = 0 %}
       {% endif %}
-      <meta http-equiv="refresh" content="3; url={{ redirect }}">
+      <meta http-equiv="refresh" content="{{ timeout }}; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
   </head>
