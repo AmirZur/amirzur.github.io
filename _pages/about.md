@@ -18,10 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I am an NLP researcher passionate about understanding and evaluating the language capabilities of AI models.
+Hi there! I am an NLP researcher passionate about understanding how AI models learn and process language.
 
-In 2023, I completed a Masters in Computer Science and Bachelors in Linguistics at Stanford University, where I conducted research advised by <a href="https://stanford.edu/~cgpotts/">Dr. Christopher Potts</a> and <a href="https://atticusg.github.io/">Dr. Atticus Geiger</a>.
+I completed my MS in Computer Science and BA in Linguistics at Stanford University, where I conducted research on <strong>causally-motivated explanation and evaluation</strong> of language models advised by <a href="https://stanford.edu/~cgpotts/">Dr. Christopher Potts</a> and <a href="https://atticusg.github.io/">Dr. Atticus Geiger</a>.
 
-My research focuses on <strong>causally-motivated explanations and evaluation</strong> of language models. At Stanford, I worked on interpretable, de-biased, and accessible language models. At the <a href="https://prair.group/">Pr(Ai)<sup>2</sup>R Group</a>, I researched the decision-making of language models during free-form text generation, and its implications on representation bias in short story generation.
-
-Right now, I am a data scientist at Microsoft, working on multi-turn conversational agents.
+My Honors thesis at Stanford focused on interpretable, de-biased, and accessible language models. At the <a href="https://prair.group/">Pr(Ai)<sup>2</sup>R Group</a>, I researched the decision-making of language models during text generation. Right now, I am a data scientist at Microsoft working on interactive and explainable agents.
