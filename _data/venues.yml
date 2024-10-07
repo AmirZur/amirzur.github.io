@@ -1,9 +1,17 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"EMNLP":
+  url: https://2024.emnlp.org/
+  color: "#710461"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"JMLR":
+  url: https://jmlr.org/
+  color: "#055459"
 
-"Vision":
-  color: "#009f36"
+"ICML":
+  url: https://icml.cc/
+  color: "#26294a"
+
+"EDM":
+  url: https://educationaldatamining.org/
+  color: "#ee6c3b"
+
+# template: https://www.pinterest.com/pin/306526318394284650/
