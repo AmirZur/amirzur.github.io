@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I am an NLP researcher passionate about understanding how AI models learn and process language.
+Hi there! I am first-year PhD student at <a href="https://nlp.stanford.edu/">Stanford NLP</a> excited about understanding how AI models learn and process language.
 
-I completed my MS in Computer Science and BA in Linguistics at Stanford University, where I conducted research on <strong>causally-motivated explanation and evaluation</strong> of language models advised by <a href="https://stanford.edu/~cgpotts/">Dr. Christopher Potts</a> and <a href="https://atticusg.github.io/">Dr. Atticus Geiger</a>.
+My research, advised by <a href="https://stanford.edu/~cgpotts/">Dr. Christopher Potts</a>, focuses on <strong>causally-motivated explanation and evaluation</strong> of language models.
 
-My Honors thesis at Stanford focused on interpretable, de-biased, and accessible language models. At the <a href="https://prair.group/">Pr(Ai)<sup>2</sup>R Group</a>, I researched the decision-making of language models during text generation. Right now, I am a data scientist at Microsoft working on interactive and explainable agents.
+Currently, I'm exploring how language models represent and resolve uncertainty. Can we track the decision-making process of a language model by inspecting the text it generates?
+
+I'm always happy to chat!

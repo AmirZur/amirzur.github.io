@@ -3,7 +3,7 @@ layout: page
 title: Evaluating and Understanding Generative LLMs
 description: Unpublished project completed at the Pr(Ai)<sup>2</sup>R Group
 img: assets/img/project_thumbnails/bias_generative.png
-importance: 2
+importance: 4
 category: work
 related_publications: false
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Semantics with LMs
 description: Linguist 230B (Advanced Semantics)
 img: assets/img/project_thumbnails/semantics_with_lms.png
-importance: 1
+importance: 3
 category: work
 related_publications: false
 ---
